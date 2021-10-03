@@ -1,2 +1,2 @@
-this is test2 file created/
+this is test2 file created.
 this is remote test2 file change.
